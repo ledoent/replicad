@@ -22,8 +22,8 @@
     "three": "^0.155.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "3.0.1",
-    "vite": "4.0.4"
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.12"
   },
   "browserslist": [
     ">0.2%",
